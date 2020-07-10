@@ -3,8 +3,12 @@ body{
 }
 
 /* header starts */
-header, .banner{
-    background-color: brown;
+header{
+    background-image: url(images/court.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    min-height: 700px;
+ 
     
 }
 .banner{
