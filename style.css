@@ -1,0 +1,74 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* header starts */
+header, .banner{
+    background-color: brown;
+    
+}
+.banner{
+    padding: 70px 20px;
+}
+.logo{
+    height: 60px;
+    width: 200px;
+}
+
+
+.header-bg h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+.red_learn{
+    color: #FD511A;
+    font-size: 16px;
+
+}
+.green_special{
+    color: #21B573;
+
+}
+.normal_text{
+    font-size: 16px;
+    color: #6C6B6B;
+   
+}
+.custom_button{
+    background-color: #fff;
+    border-radius: 33px;
+    color: black;
+    padding: 11px 29px;
+    font-weight: bold;
+    border: none;
+    margin: 30px 0;
+    margin-right: 40px;
+}
+ .custom_nav_hover ul li{
+    padding: 12px 5px;
+    font-weight: 500;
+}
+
+.custom_nav_hover ul li a{
+
+    color: #fff !important;
+ 
+}
+.custom_button_nav{
+    background-color: transparent;
+    border-radius: 33px;
+    color: white;
+    border: 1px solid #fff;
+    font-weight: bold;
+    height:40px;
+    width: 105px;
+
+    
+}
+.custom_button_nav:hover, .custom_button:hover{
+    color:#DBB100 ;
+    background-color: #fff;
+    border: 1px solid #DBB100;
+}
